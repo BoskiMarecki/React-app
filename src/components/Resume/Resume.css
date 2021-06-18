@@ -1,0 +1,11 @@
+.actual {
+    color: black;
+}
+
+.none {
+    display: none;
+}
+
+.paddingLeft {
+    margin-left: 90px;
+}

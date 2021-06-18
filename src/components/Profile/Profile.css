@@ -1,0 +1,76 @@
+.nameDiv {
+    display: inline-block;
+    text-align: left;
+    color: #2a3a6b;
+}
+
+.noVisible {
+    display: none;
+    font-size: 50px;
+}
+
+.tableField {
+    width: 150px;
+    margin-top: 10px;
+    padding: 2px;
+}
+
+.date {
+    font-size: 20px;
+    width: 150px;
+    margin-top: 10px;
+    padding: 2px;
+}
+
+.tableLocation {
+    width: 150px;
+    margin-top: 10px;
+    padding: 2px;
+}
+
+.selectLabel {
+    font-size: 20px;
+    color: #6eaaba;
+    background-color: #e6f0f3;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.file::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+.file {
+    font-size: 20px;
+    color: #6eaaba;
+    background-color: #e6f0f3;
+    padding: 3px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.file::before {
+    content: "    ";
+    font-size: 20px;
+    background-color: #e6f0f3;
+}
+
+.selectForm {
+    font-size: 20px;
+}
+
+.labelText {
+    font-size: 20px;
+    color: #2a3a6b;
+}
+
+.fieldSelect {
+    font-size: 20px;
+    color: #6eaaba;
+    background-color: #e6f0f3;
+    padding: 3px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+}

@@ -1,0 +1,74 @@
+.box {
+    width: 24%;
+}
+
+.list {
+    width: 100%;
+    clear: both;
+    font-size: 25px;
+}
+
+.list img {
+    width: 15%;
+}
+
+.list div p {
+    font-size: 15px;
+}
+
+.layout {
+    display: flex;
+    font-size: 15px;
+    color: #2a3f9d;
+    border-radius: 5px;
+    border: 2px solid grey;
+    align-items: center;
+    background-color: #eaecf5;
+    overflow: hidden;
+    font-weight: bold;
+}
+
+.laText {
+    padding: auto;
+}
+
+.mosaicImg {
+    width: 20px;
+    margin-right: 5px;
+    padding: 6px;
+}
+
+.listImg {
+    width: 20px;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+.laBackground {
+    background-color: white;
+}
+
+.full {
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.full {
+    font-size: 150%;
+}
+
+.full div p {
+    font-size: 50%;
+}
+
+.leftIcon {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.none {
+    display: none;
+}
